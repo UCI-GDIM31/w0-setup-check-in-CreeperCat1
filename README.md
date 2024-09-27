@@ -7,18 +7,23 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-Noah Guttmann
+My name is Noah Guttmann and I like to play just about any game I can get my hands on, recently I've been playing Old School RuneScape. I'm taking this class to learn more about video game development while learning more about the field. Some of my past experience with game development include making fps and puzzle type games using Unity. I hope to build more 3D games.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [X] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I am hoping to learn more about the professional side of game development and optimize my code.
+
 4. What, if anything, are you nervous about for this class?
+
+I am a little nervous about the 2D side of game development as I really only have experience in 3D.
 
 ## Prior Experience
 
@@ -28,9 +33,11 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+C#, Python, HTML.
+
 2. Game development (any engine)
 
-3. Unity
+Unity
 
 ### Programming & Game Development Concepts
 
@@ -43,13 +50,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+Document what is needed and what needs to be done on a project.
+
 2. Scope management
+
+Making so there isn't too high/low expectations for a project.
 
 3. Iteration
 
+Order in which the code is executed.
+
 4. Object-Oriented programming
 
+Programming using objects to accomplish a task.
+
 5. Model-View-Controller architecture
+
+N/A
 
 ## Complete!
 
